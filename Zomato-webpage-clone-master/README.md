@@ -1,8 +1,8 @@
-#tharunkumar chilagani
+#SHEKAR BOLLARAPU
 
-#done with firsr commit
+#done with first commit
 
-#hello tharunkumar
+#hello shekarbollarapu
 
 I likely to play games
 
